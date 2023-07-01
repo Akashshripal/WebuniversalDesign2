@@ -22,7 +22,7 @@ export default function SectionOne(){
             </div>
 
             <div >
-                <img className="sectionOne-img" alt="" src="./src/assets/img/SectionOne.png"/>
+                <img className="sectionOne-img" alt="" src="https://webuniversals.co.in/website-design-offer/assets/demo-data/home-page.png"/>
             </div>    
             </main>
             </>

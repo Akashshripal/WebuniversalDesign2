@@ -1,4 +1,3 @@
-// import { useState } from 'react'
 import Navbar from './component/Navbar';
 import SideIcons  from './component/SideIcons';
 import Header  from './component/Header';
@@ -11,13 +10,10 @@ import SectionFive from './component/SectionFive';
 import SectionSix from './component/SectionSix';
 import SectionSeven from './component/SectionSeven';
 import SectionEight from './component/SectionEight';
-// import SectionLast from './component/SectionLast';
 import Footer from './component/Footer';
-import './App.css'
 import PopUpForm from './component/PopUpForm';
                                                                                              
 function App() {
-  // const [count, setCount] = useState(0)
 
   return (
     <>
@@ -33,7 +29,6 @@ function App() {
     <SectionSix/>
     <SectionSeven/>
     <SectionEight/>
-    {/* <Slider/> */}
     <PopUpForm/>
     <Footer/>
     </>

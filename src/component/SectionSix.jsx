@@ -5,7 +5,7 @@ export default function SectionSix(){
         <>
        <section className="SectionSix">
             <div >
-                <img className="SectionSix-img" src="./src/assets/img/SectionSix.png"/>
+                <img className="SectionSix-img" src="https://img.freepik.com/free-photo/business-work-place_93675-129174.jpg?w=900&t=st=1688196311~exp=1688196911~hmac=3da782df2c37392ca37345e2287e170d7e73393b271a87a972c47dc284e77ab1"/>
             </div>            
             <div className="SectionSix-info" >
                 <div className="overlay"></div>

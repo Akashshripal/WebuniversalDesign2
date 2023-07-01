@@ -5,7 +5,7 @@ export default function SectionFour(){
         <>
         <section className="SectionFour"  >
             <div>
-                <img className="SectionFour-img" src="./src/assets/img/SectionFour.png"/>
+                <img className="SectionFour-img" src="https://img.freepik.com/free-photo/close-up-hands-typing-key-board_23-2149364177.jpg?w=740&t=st=1688195454~exp=1688196054~hmac=983fb66afbad02db19f177aeba4c856f0391b7ce44406b673f904305e0c90fc6"/>
             </div>
             
             <div className="SectionFour-Info">

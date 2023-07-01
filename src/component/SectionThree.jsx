@@ -15,7 +15,7 @@ export default function SectionThree(){
                 </ul>
             </div>
             <div>
-                <img className="SectionThree-img" src="./src/assets/img/SectionThree.png" alt="/"/>
+                <img className="SectionThree-img" src="https://img.freepik.com/free-vector/organic-flat-csr-concept-illustrated_23-2148916748.jpg?w=900&t=st=1688197124~exp=1688197724~hmac=a550542ab24a1d276f16a08a9e1b96d584e00dbeb7790b9f267783c89de52ea9" alt="/"/>
             </div>
 </section>
         </>

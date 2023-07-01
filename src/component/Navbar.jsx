@@ -6,7 +6,7 @@ export default function Navbar(props){
         <>
         <nav className='navbar'> 
             <a className ='logo'>
-            <img src='./src/assets/img/logo-animated.gif' alt="web-universal logo" width="250px" height ="60px" />
+            <img src='https://webuniversals.co.in/website-design-offer/assets/demo-data/logo-animated.gif' alt="web-universal logo" width="250px" height ="60px" />
             </a>
             <div id="navbar">
             {/* <a href="#" className="nav-triger"><span className="fa fa-navicon"></span></a> */}

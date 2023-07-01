@@ -10,7 +10,7 @@ export default function SectionSeven(){
               
             </div>
             <div >
-                <img className="SectionSeven-img" src="./src/assets/img/SectionSeven.png" alt="/"/>
+                <img className="SectionSeven-img" src="https://webuniversals.co.in/website-design-offer/assets/demo-data/1.png" alt="/"/>
             </div>
 </section>
         </>

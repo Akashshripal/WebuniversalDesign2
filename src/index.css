@@ -36,6 +36,10 @@ li > a {
   color: #0c0c0b;
 
 }
+.logo > a{
+  width:"250px" ;
+  height :"60px";
+}
 
 /* ++++++++++++++++++
   Sidebar-Icons
@@ -225,7 +229,9 @@ color: #5A9BD1;
   padding: 60px;
   display: flex;
 }
-
+.SectionFour-img{
+ width: 417px;
+}
 .SectionFour-Info{
   color: #d4cad4;
   background-size: 100% 80%;
@@ -458,9 +464,10 @@ p > strong{
   top: 250px;
   right: 320px;
   left: 320px;
+  margin: 5% auto;
   border: 3px solid #f1f1f1;
- /* width: 506px;
- height: 535px; */
+  height: 25%;
+
 }
 .submit>h1{
   padding:0 20px;
@@ -667,176 +674,23 @@ span > .link:hover{
   
   /* Pop up form */
   .Form {
-    width: 100%;
-    right: 0;
+    width: 80%;
+    right: 35px;
+    margin-bottom: 100px;
   }
   
   /* Footer */
   .footer > span {
     display: block;
   }
-}
-
-
-/* 
-@media screen and (min-width: 640px) {
- 
-  .navbar> .logo{
-  margin: 20px auto;
-  width:40%;
-  height: 30%;
+  /* Pop up form */
+  .submit{
+    width: 50%;
+    left: 50px;
+    right: 50px;
+    height: 27%;
+    margin: 0 auto;
+    font-size: 10px;
   }
-  
- 
-  .header{
-    width: 680px;
-    height: auto;
-    display: flex;
-    flex-direction: column;
-  }
-  .header-content {
-    
-    text-align: center;
-    
-    margin: 50px auto;
-    width: 100%;
-  }
- 
-  .header-content > form{
-    width: 90%;
-    margin: 0px auto;
-
-  }
-  .header-content > h2{
-    width: 100%;
-    margin: 0px auto;
-    font-size: 49px;
-  }
-  .sub-heading > strong{
-     width: 70%;
-    margin: 40px auto;
-    font-size: 29px;
-
-  }
-  .sub-heading {
-    width: 70%;
-   margin: 40px auto;
-   font-size: 29px;
-
- }
-   .Input{
-    text-align: center;
-    margin: 20px auto; 
-    padding: 30px 50px;
-    font-size: 30px; 
-    width: 90%;
-  }
-  .header-form > .btn{
-   width: 70%;
-   padding: 25px 50px;
-   font-size: 40px;  
-   margin-top: 70px; 
- 
-  }
-
- 
-
-.icon-bar a{
-  padding: 30px 20px;
-  font-size: 24px;
-}
- 
-
-  .services{
-    flex-direction: column;
-    width: 340px;
-    padding: 200px;
-    text-align: center;
-}
-.services > h3{
-   font-size: 36px;
 }
 
-
-  .sectionOne{
-    flex-direction: column;
-    width: 100%;
-    margin-left: 80px;
-  }
-  .sectionOne-img{  
-    width: 150%;
-  }
-  .sectionOne>.info-section{
-    width: 100%;
-  
-   }
-   .info > h5{
-    font-size: 40px;
-
-   }
-   .info > p{
-    font-size: 28px;
-   }
-
- 
-  .sectionTwo{
-    
-    background-size: cover;
-    background-color: aqua;
-    position: relative;
-    background-attachment: fixed;
-    background-position:100%;
-    color: #fff;
-  }
-  .sectionTwo > .content{
-    display: inline-block;
-    width: 100%;
-   }
-
-
- .SectionThree{
-  flex-direction: column;
-  margin-left: 70px;
-  width: 100%;
- }
- 
-.SectionThree-info > h5{
- 
-  font-size: 34px;
-  width: 100%;
-}
-.SectionThree-info > p,ul{
- font-size: 34px;
- line-height: 38px;
- width: 100%;
- 
-}
-
-.SectionThree-img{
-  width: 100%;
-}
-
-.SectionFour{
-  flex-direction: column;
-  min-width: 120%;
-}
-.SectionFour-img{
-  width: 100%;
-}
-.SectionFour-Info{
-  margin-left: 0px;
-  padding-left: 10px;
-  width: 100%; 
-  margin-top: 20px; 
-}
-.SectionFour-Info > h5{
-  font-size: 34px;
-  margin-top: 10px;
-  padding-top: 10px;
-  
-}
-.SectionFour-Info > p{
-  font-size: 29px;
- line-height: 35px;
-}
- }  */
