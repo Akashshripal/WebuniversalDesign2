@@ -530,8 +530,9 @@ span > .link:hover{
     text-align: center;
 }
    .services > h3{
-   font-size: 26px;
+   font-size: 18px;
    margin: 0 auto;
+   margin-bottom: 30px;
    }
    .services > img{
     /* font-size: 10px; */
@@ -687,7 +688,7 @@ span > .link:hover{
   .submit{
     width: 50%;
     left: 50px;
-    right: 50px;
+    right: 60px;
     height: 27%;
     margin: 0 auto;
     font-size: 10px;
