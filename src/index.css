@@ -41,6 +41,7 @@ li > a {
   height :"60px";
 }
 
+
 /* ++++++++++++++++++
   Sidebar-Icons
 ++++++++++++++++++ */
@@ -55,7 +56,6 @@ li > a {
 }
 
 .icon-bar a{
-  
   padding: 10px 7px;
   color: white;
   font-size: 14px;
@@ -525,8 +525,6 @@ span > .link:hover{
   
   .services{
     flex-direction: column;
-    /* width: 80%; */
-    /* padding: 200px; */
     text-align: center;
 }
    .services > h3{
@@ -535,7 +533,6 @@ span > .link:hover{
    margin-bottom: 30px;
    }
    .services > img{
-    /* font-size: 10px; */
    margin: 0 auto;
 
   }
@@ -565,33 +562,35 @@ span > .link:hover{
   }
   
   /* Section Two */
-  /* .sectionTwo{
-    display: inline;
-  }
-   */
+
+ 
    .sectionTwo{
     background-size: cover;
-    /* background-image: none; */
     min-width: 100%;
     
    }
-.sectionTwo > .content{
-  display: inline-block;
-}
+    .sectionTwo > .content{
+      display: inline-block;
+    }
   .sectionTwo-info {
     width: 90%;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 0px;
     margin: -20px auto;
+    margin-left: 30px;
+    
   }
   .sectionTwo-img {
    width: 90%;
+   margin-left: 20px;
+   justify-content: center;
   }
+ 
   /* Section Three */
   .SectionThree {
     flex-direction: column;
     align-items: center;
-    padding: 60px 20px;
+    padding: 60px 40px;
   }
   
   .SectionThree-info > h5 {
@@ -620,6 +619,7 @@ span > .link:hover{
     margin: 0;
     width: 100%;
     text-align: center;
+    margin-top: 50px;
   }
   .SectionFour-img{
     width: 100%;
@@ -668,6 +668,9 @@ span > .link:hover{
  
 }
   /* Section Last */
+  /* .SectionLast{
+   margin: 0px;
+  } */
   .SectionLast > .btn {
     width: 100%;
     padding: 10px 25px;
@@ -692,6 +695,12 @@ span > .link:hover{
     height: 27%;
     margin: 0 auto;
     font-size: 10px;
+  }
+
+  /* Icon bar */
+  .icon-bar a{
+   font-size: 20px;
+   padding: 9px 4px;
   }
 }
 
