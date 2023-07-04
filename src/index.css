@@ -522,7 +522,7 @@ span > .link:hover{
     margin-right: 0;
     margin-bottom: 15px;
   }
-  
+
   .services{
     flex-direction: column;
     text-align: center;
@@ -658,12 +658,13 @@ span > .link:hover{
   /* Section eight */
 .slider{
   width: 100%;
-  margin: 0;
 }
 .slider > h2{
   font-size: 18px;
+  margin-top: 15px;
 }
 .slider > p{
+  margin-top: -15px;
  font-size: 11px;
  
 }

@@ -32,13 +32,13 @@ export default function PopUpForm(){
                        <h1>Get a call back</h1>
                    
                   
-                          <input type="text" placeholder="Full Name" name="name" />
+                          <input type="text" placeholder="Full Name" name="name" required />
                      
                         
-                          <input type="text" placeholder="Enter Email" name="email" />
+                          <input type="text" placeholder="Enter Email" name="email" required/>
                      
                        
-                          <input type="text" placeholder="Phone Number" name="phone"  />
+                          <input type="text" placeholder="Phone Number" name="phone"  required/>
                      
                         
                           <select className="form-container" >

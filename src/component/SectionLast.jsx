@@ -15,7 +15,7 @@ export default function SectionLast(props){
         <p><strong>Come join hands, and our developers will help you harness the real prowess of digital media! </strong></p>
         <a className="btn" onClick={props.handleform}>Get a Call Back !</a>
        </section>
-     
         </>
-    )
+ 
+ )
 }
